@@ -34,4 +34,9 @@
 		<price>$15</price>
 		<calorie420</calorie>
 	</food>
+		<food>
+		<name>Mango Sticky rice</name>
+		<price>$35</price>
+		<calorie>640</calorie>
+	</food>
 </menu>
